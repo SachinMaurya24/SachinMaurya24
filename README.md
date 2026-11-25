@@ -2,7 +2,6 @@
 
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:3b82f6&height=200&section=header&text=Sachin%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=C%2B%2B%20Systems%20%E2%80%A2%20Competitive%20Programming%20%E2%80%A2%20Quant%20Simulations&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
-type=waving&color=0:0d1117,50:1f2937,100:3b82f6&height=200&section=header&text=Sachin%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=C++%20Systems%20%E2%80%A2%20Competitive%20Programming%20%E2%80%A2%20Quant%20%26%20Simulations&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
