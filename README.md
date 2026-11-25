@@ -4,10 +4,11 @@
 
 **CS Undergrad @ MAIT, Delhi · C++ Systems · Competitive Programming · Quant & Numerical Simulations**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/SachinMaurya24/Portfolio)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Borachii-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Borachii)
 [![AtCoder](https://img.shields.io/badge/AtCoder-Borachii-222222?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Borachii)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Borachi18x24-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Borachi18x24/)
-[![CSES](https://img.shields.io/badge/CSES-Borachi-2F4F4F?style=flat-square)](https://cses.fi/user/Borachi)
+[![CSES](https://img.shields.io/badge/CSES-Borachi-2F4F4F?style=flat-square)](https://cses.fi/)
 
 </div>
 
@@ -23,16 +24,22 @@
 
 ### Featured Projects
 
-- **[Barnes–Hut N-Body Simulator](https://github.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator)** — C++20 gravitational galaxy merger engine using quadtree/octree spatial partitioning, outputting particle snapshots and FFmpeg merger animations.
-- **RevLoop AI** — Autonomous automotive service recovery platform built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and Zustand.
-- **The Deep Ledger** — Interactive 2.5D parallax developer portfolio crafted with React Three Fiber, GSAP ScrollTrigger, and Lenis.
+- **[Barnes–Hut N-Body Simulator](https://github.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator)** *(C++20)* — Gravitational galaxy merger engine using spatial partitioning, outputting particle snapshots, time-labeled plots, and FFmpeg merger animations.
+- **[AtCoder Profile Checker](https://github.com/SachinMaurya24/Atcoder-profile-checker)** *(JavaScript)* — Analytics tool for tracking AtCoder performance, total solved counts, and stats not surfaced on the default profile.
+- **[Poke1PlayerGame](https://github.com/SachinMaurya24/Poke1PlayerGame)** *(TypeScript)* — Single-player Pokémon-inspired web game built in TypeScript.
+
+---
+
+### Portfolio
+
+- **[My Developer Portfolio](https://github.com/SachinMaurya24/Portfolio)** — Central hub for my projects, experiments, and contact links. *(Live link coming soon)*
 
 ---
 
 ### Tech Stack
 
 **Core & Systems:** `C++20` · `Python` · `Git` · `FFmpeg`  
-**Web & Visuals:** `TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `React Three Fiber` · `GSAP`
+**Web & Frontend:** `TypeScript` · `JavaScript` · `HTML/CSS`
 
 ---
 
