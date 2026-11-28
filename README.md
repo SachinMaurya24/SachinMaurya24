@@ -55,8 +55,8 @@ $$\frac{s}{d} < \theta \implies \mathbf{F}_i \approx -\sum_{k} \frac{G m_i M_k}{
 <br/>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 [AtCoder Profile Checker](https://github.com/SachinMaurya24/Atcoder-profile-checker)
 
@@ -66,8 +66,8 @@ Analytics dashboard surfacing AtCoder performance history, total solved distribu
 
 `JavaScript` `REST API` `Competitive Programming`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🎮 [Poke1PlayerGame](https://github.com/SachinMaurya24/Poke1PlayerGame)
 
@@ -77,9 +77,10 @@ Deterministic single-player turn-based battle engine built from scratch with typ
 
 `TypeScript` `State Machines` `Game Systems`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 ---
 
