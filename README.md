@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:3b82f6&height=200&section=header&text=Sachin%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=C%2B%2B%20Systems%20%E2%80%A2%20Competitive%20Programming%20%E2%80%A2%20Physics%20Simulations&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<!-- Dynamic Barnes–Hut Quadtree Header (Auto-updated daily via GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/quadtree-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/quadtree-light.svg" />
+  <img alt="Sachin Maurya — Barnes–Hut Quadtree Commit Map" src="./assets/quadtree-dark.svg" width="100%" />
+</picture>
 
-<br/>
+<br/><br/>
 
-<!-- Top Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)
+<!-- Navigation Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Borachii-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Borachii)
 [![AtCoder](https://img.shields.io/badge/AtCoder-Borachii-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Borachii)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Borachi18x24-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Borachi18x24/)
@@ -16,45 +20,78 @@
 
 ---
 
-### ✦ About Me
+### ✦ 01 · Profile
 
-> **CS Undergrad @ MAIT, Delhi** — focused on performance, mathematics, and clean engineering.
+> **CS Undergrad @ MAIT, Delhi** — focused on numerical methods, low-level performance, and mathematical engineering.
 
-- ⚙️ Building high-performance **C++20** simulations, low-level systems, and quantitative models.
-- 📈 Exploring **probability, stochastic processes, and algorithmic trading** alongside daily competitive programming (DP, bitmasking, combinatorics, and graphs).
-- 🧩 Authoring original algorithmic problems and contest storylines for college programming contests.
-
----
-
-### ✦ Portfolio
+- **Systems & Simulation:** Writing high-performance **C++20** physics engines, spatial data structures, and computational models.
+- **Quantitative & Algorithmic:** Studying **probability, stochastic processes, and algorithmic trading** alongside daily competitive programming (DP, bitmasking, combinatorics, graph theory).
+- **Problem Setting:** Authoring original algorithmic problem sets and contest narratives for college programming competitions.
 
 <div align="center">
 
-| 🌐 Live Website | 📂 Source Code |
+| Live Portfolio | Source Repository |
 | :---: | :---: |
-| **[Explore My Developer Portfolio →](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)** | **[SachinMaurya24/Portfolio](https://github.com/SachinMaurya24/Portfolio)** |
+| **[Explore Interactive Portfolio →](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)** | **[SachinMaurya24/Portfolio](https://github.com/SachinMaurya24/Portfolio)** |
 
 </div>
 
 ---
 
-### ✦ Featured Projects
+### ✦ 02 · Featured Systems (Mathematical Spec Cards)
+
+#### 🌌 [Barnes–Hut N-Body Simulator](https://github.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator)
+> *Hierarchical spatial-partitioning gravitational engine for two-body galaxy mergers.*
+
+$$\frac{s}{d} < \theta \implies \mathbf{F}_i \approx -\sum_{k} \frac{G m_i M_k}{\left(\|\mathbf{r}_i - \mathbf{R}_k\|^2 + \varepsilon^2\right)^{3/2}}(\mathbf{r}_i - \mathbf{R}_k)$$
+
+- **Complexity Reduction:** Compresses pairwise gravitational evaluation from $O(N^2)$ to $O(N \log N)$ via recursive quadtree multipole approximation.
+- **Pipeline:** Outputs deterministic CSV particle state snapshots, time-labeled phase plots, and FFmpeg merger animations.
+- **Stack:** `C++20` `Quadtree` `Computational Physics` `Python` `FFmpeg`
+
+<!-- Uncomment once your showcase image/GIF path is confirmed in the Barnes-Hut repo -->
+<!-- <p align="center"><img src="https://raw.githubusercontent.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator/main/galaxy_merger_showcase.png" width="85%" alt="Galaxy Merger Simulation" /></p> -->
+
+<br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator">Barnes–Hut N-Body Simulator</a></h3>
-      <p>Gravitational galaxy merger engine using spatial partitioning, outputting CSV particle snapshots, time-labeled plots, and FFmpeg merger animations.</p>
-      <p><code>C++20</code> <code>Physics</code> <code>FFmpeg</code></p>
+
+### 📊 [AtCoder Profile Checker](https://github.com/SachinMaurya24/Atcoder-profile-checker)
+
+$$E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}$$
+
+Analytics dashboard surfacing AtCoder performance history, total solved distributions, and contest telemetry omitted from the default profile.
+
+`JavaScript` `REST API` `Competitive Programming`
+
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/SachinMaurya24/Atcoder-profile-checker">AtCoder Profile Checker</a></h3>
-      <p>Analytics tool for tracking AtCoder performance, total solved counts, and detailed stats not surfaced on the default profile.</p>
-      <p><code>JavaScript</code> <code>Web</code> <code>Competitive Programming</code></p>
+
+### 🎮 [Poke1PlayerGame](https://github.com/SachinMaurya24/Poke1PlayerGame)
+
+$$\text{Damage} = \left\lfloor \left(\frac{2L}{5} + 2\right) \cdot P \cdot \frac{A}{D} \cdot \frac{1}{50} + 2 \right\rfloor \cdot M$$
+
+Deterministic single-player turn-based battle engine built from scratch with type-multiplier state transitions and interactive combat mechanics.
+
+`TypeScript` `State Machines` `Game Systems`
+
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/SachinMaurya24/Poke1PlayerGame">Poke1PlayerGame</a></h3>
-      <p>Single-player Pokémon-inspired web game built from scratch with interactive battle mechanics.</p>
-      <p
+</table>
+
+---
+
+### ✦ 03 · Competitive Programming Telemetry
+
+<div align="center">
+
+<!-- Live Quant-Style CP Time Series (Auto-updated daily via GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cp-telemetry-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cp-telemetry-light.svg" />
+  <img alt="Codeforces and AtCoder Quantitative Rating Telemetry" src="./assets/cp-telemetry-dark.svg" width="100%" />
+</picture>
+
+</div>
