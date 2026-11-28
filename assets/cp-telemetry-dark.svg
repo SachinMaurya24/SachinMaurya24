@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="100%">
+  <rect width="960" height="250" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <text x="20" y="23" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1">FIG. 02 — COMPETITIVE PROGRAMMING TIME-SERIES TELEMETRY</text>
+  <text x="940" y="23" text-anchor="end" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">UPDATED 2026-11-28 UTC</text>
+  
+  <g>
+    <rect x="16" y="36" width="456" height="200" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="40" y="66" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">CODEFORCES SERIES</text>
+    <text x="448" y="66" text-anchor="end" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">@Borachii  ·  n=22</text>
+    <text x="40" y="84" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">RATING 1360   |   PEAK 1360</text>
+    <line x1="40" y1="98.0" x2="448" y2="98.0" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" /><line x1="40" y1="126.7" x2="448" y2="126.7" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" /><line x1="40" y1="155.3" x2="448" y2="155.3" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" /><line x1="40" y1="184.0" x2="448" y2="184.0" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" />
+    <polygon points="40.0,184.0 40.0,184.0 59.4,156.2 78.9,140.2 98.3,124.0 117.7,107.6 137.1,103.1 156.6,107.4 176.0,102.9 195.4,104.5 214.9,103.4 234.3,107.8 253.7,109.3 273.1,109.9 292.6,107.8 312.0,107.0 331.4,99.7 350.9,100.1 370.3,103.9 389.7,109.0 409.1,108.8 428.6,104.0 448.0,98.0 448.0,184.0" fill="#58a6ff" fill-opacity="0.12" /><polyline points="40.0,184.0 59.4,156.2 78.9,140.2 98.3,124.0 117.7,107.6 137.1,103.1 156.6,107.4 176.0,102.9 195.4,104.5 214.9,103.4 234.3,107.8 253.7,109.3 273.1,109.9 292.6,107.8 312.0,107.0 331.4,99.7 350.9,100.1 370.3,103.9 389.7,109.0 409.1,108.8 428.6,104.0 448.0,98.0" fill="none" stroke="#58a6ff" stroke-width="2" /><circle cx="448.0" cy="98.0" r="3.5" fill="#58a6ff" />
+    <line x1="40" y1="202" x2="448" y2="202" stroke="#21262d" stroke-width="1" />
+    <text x="40" y="224" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">μ(Δr): <tspan fill="#e6edf3" font-weight="600">+46.7</tspan></text>
+    <text x="244.0" y="224" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">σ(Δr): <tspan fill="#e6edf3" font-weight="600">94.7</tspan></text>
+    <text x="448" y="224" text-anchor="end" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">MAX DD: <tspan fill="#e6edf3" font-weight="600">-106</tspan></text>
+  </g>
+  
+  <g>
+    <rect x="488" y="36" width="456" height="200" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <text x="512" y="66" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">ATCODER SERIES</text>
+    <text x="920" y="66" text-anchor="end" fill="#a371f7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">@Borachii  ·  n=6</text>
+    <text x="512" y="84" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">RATING 381   |   PEAK 381</text>
+    <line x1="512" y1="98.0" x2="920" y2="98.0" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" /><line x1="512" y1="126.7" x2="920" y2="126.7" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" /><line x1="512" y1="155.3" x2="920" y2="155.3" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" /><line x1="512" y1="184.0" x2="920" y2="184.0" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3" />
+    <polygon points="512.0,184.0 512.0,184.0 593.6,160.4 675.2,126.4 756.8,99.4 838.4,120.2 920.0,98.0 920.0,184.0" fill="#a371f7" fill-opacity="0.12" /><polyline points="512.0,184.0 593.6,160.4 675.2,126.4 756.8,99.4 838.4,120.2 920.0,98.0" fill="none" stroke="#a371f7" stroke-width="2" /><circle cx="920.0" cy="98.0" r="3.5" fill="#a371f7" />
+    <line x1="512" y1="202" x2="920" y2="202" stroke="#21262d" stroke-width="1" />
+    <text x="512" y="224" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">μ(Δr): <tspan fill="#e6edf3" font-weight="600">+74.4</tspan></text>
+    <text x="716.0" y="224" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">σ(Δr): <tspan fill="#e6edf3" font-weight="600">84.1</tspan></text>
+    <text x="920" y="224" text-anchor="end" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">MAX DD: <tspan fill="#e6edf3" font-weight="600">-90</tspan></text>
+  </g>
+</svg>
