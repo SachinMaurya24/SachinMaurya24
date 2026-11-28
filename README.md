@@ -1,98 +1,128 @@
 <div align="center">
 
-<!-- Dynamic Barnes–Hut Quadtree Header (Auto-updated daily via GitHub Actions) -->
+<!-- Plate I: Equipotential Contours & Barnes-Hut Spatial Partitioning -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/quadtree-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/quadtree-light.svg" />
-  <img alt="Sachin Maurya — Barnes–Hut Quadtree Commit Map" src="./assets/quadtree-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/manifold-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/manifold-hero-light.svg" />
+  <img alt="Sachin Maurya — Equipotential Contours and Barnes-Hut Quadtree" src="./assets/manifold-hero-dark.svg" width="100%" />
 </picture>
 
-<br/><br/>
+<br/>
 
-<!-- Navigation Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Borachii-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Borachii)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Borachii-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Borachii)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Borachi18x24-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Borachi18x24/)
-[![CSES](https://img.shields.io/badge/CSES-Borachi-2F4F4F?style=for-the-badge)](https://cses.fi/)
+<sub>
+
+**[Portfolio](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)** &nbsp;·&nbsp; **[Codeforces](https://codeforces.com/profile/Borachii)** &nbsp;·&nbsp; **[AtCoder](https://atcoder.jp/users/Borachii)** &nbsp;·&nbsp; **[LeetCode](https://leetcode.com/u/Borachi18x24/)** &nbsp;·&nbsp; **[CSES](https://cses.fi/)**
+
+</sub>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/harmonic-rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/harmonic-rule-light.svg" />
+  <img alt="" src="./assets/harmonic-rule-dark.svg" width="100%" />
+</picture>
 
 </div>
 
----
+### I &nbsp;·&nbsp; Notes on Focus
 
-### ✦ 01 · Profile
+> *CS Undergrad @ MAIT, Delhi — building systems where geometry, dynamics, and algorithms meet.*
 
-> **CS Undergrad @ MAIT, Delhi** — focused on numerical methods, low-level performance, and mathematical engineering.
-
-- **Systems & Simulation:** Writing high-performance **C++20** physics engines, spatial data structures, and computational models.
-- **Quantitative & Algorithmic:** Studying **probability, stochastic processes, and algorithmic trading** alongside daily competitive programming (DP, bitmasking, combinatorics, graph theory).
-- **Problem Setting:** Authoring original algorithmic problem sets and contest narratives for college programming competitions.
+- **Spatial & Physical Systems** — Writing high-performance **C++20** gravitational engines, recursive quadtrees, and deterministic numerical pipelines.
+- **Stochastic & Algorithmic Thinking** — Exploring probability, mean-reverting dynamics, combinatorics, dynamic programming, and graph topology alongside daily competitive programming.
+- **Problem Setting** — Designing original algorithmic problems, test generators, and contest narratives for university programming competitions.
 
 <div align="center">
 
-| Live Portfolio | Source Repository |
+| Live Monograph | Source |
 | :---: | :---: |
-| **[Explore Interactive Portfolio →](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)** | **[SachinMaurya24/Portfolio](https://github.com/SachinMaurya24/Portfolio)** |
+| **[The Living Manifold →](https://portfolio-rho-peach-ffjrw4wa6a.vercel.app/)** | **[SachinMaurya24/Portfolio](https://github.com/SachinMaurya24/Portfolio)** |
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/harmonic-rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/harmonic-rule-light.svg" />
+  <img alt="" src="./assets/harmonic-rule-dark.svg" width="100%" />
+</picture>
 
 </div>
 
----
+### II &nbsp;·&nbsp; Selected Systems
 
-### ✦ 02 · Featured Systems (Mathematical Spec Cards)
+<div align="center">
 
-#### 🌌 [Barnes–Hut N-Body Simulator](https://github.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator)
-> *Hierarchical spatial-partitioning gravitational engine for two-body galaxy mergers.*
+<!-- Plate II: Geometric Signatures of Selected Systems -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/systems-triptych-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/systems-triptych-light.svg" />
+  <img alt="Geometric signatures for Barnes-Hut N-Body, AtCoder Analytics, and Poke1PlayerGame" src="./assets/systems-triptych-dark.svg" width="100%" />
+</picture>
 
-$$\frac{s}{d} < \theta \implies \mathbf{F}_i \approx -\sum_{k} \frac{G m_i M_k}{\left(\|\mathbf{r}_i - \mathbf{R}_k\|^2 + \varepsilon^2\right)^{3/2}}(\mathbf{r}_i - \mathbf{R}_k)$$
-
-- **Complexity Reduction:** Compresses pairwise gravitational evaluation from $O(N^2)$ to $O(N \log N)$ via recursive quadtree multipole approximation.
-- **Pipeline:** Outputs deterministic CSV particle state snapshots, time-labeled phase plots, and FFmpeg merger animations.
-- **Stack:** `C++20` `Quadtree` `Computational Physics` `Python` `FFmpeg`
-
-<!-- Uncomment once your showcase image/GIF path is confirmed in the Barnes-Hut repo -->
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator/main/galaxy_merger_showcase.png" width="85%" alt="Galaxy Merger Simulation" /></p> -->
+</div>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 
-### 📊 [AtCoder Profile Checker](https://github.com/SachinMaurya24/Atcoder-profile-checker)
+#### [Barnes–Hut N-Body](https://github.com/SachinMaurya24/Barnes-Hut-N-Body-Simulator)
+Hierarchical spatial-partitioning gravity engine simulating two-galaxy mergers via recursive quadtrees, exporting CSV state snapshots and FFmpeg phase animations.
 
-$$E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}$$
-
-Analytics dashboard surfacing AtCoder performance history, total solved distributions, and contest telemetry omitted from the default profile.
-
-`JavaScript` `REST API` `Competitive Programming`
+`C++20` `Quadtree` `Python` `FFmpeg`
 
 </td>
-<td width="50%" valign="top">
+<td width="33.3%" valign="top">
 
-### 🎮 [Poke1PlayerGame](https://github.com/SachinMaurya24/Poke1PlayerGame)
+#### [AtCoder Analytics](https://github.com/SachinMaurya24/Atcoder-profile-checker)
+Rating telemetry dashboard surfacing AtCoder performance trajectories, difficulty distributions, and contest drift omitted from the default profile.
 
-$$\text{Damage} = \left\lfloor \left(\frac{2L}{5} + 2\right) \cdot P \cdot \frac{A}{D} \cdot \frac{1}{50} + 2 \right\rfloor \cdot M$$
+`JavaScript` `REST API` `Time Series`
 
-Deterministic single-player turn-based battle engine built from scratch with type-multiplier state transitions and interactive combat mechanics.
+</td>
+<td width="33.3%" valign="top">
 
-`TypeScript` `State Machines` `Game Systems`
+#### [Poke1PlayerGame](https://github.com/SachinMaurya24/Poke1PlayerGame)
+Deterministic single-player turn-based battle engine built from scratch around an 18-type interaction graph and structured state-machine transitions.
+
+`TypeScript` `State Machines`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
 
----
+<br/>
 
-### ✦ 03 · Competitive Programming Telemetry
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/harmonic-rule-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/harmonic-rule-light.svg" />
+  <img alt="" src="./assets/harmonic-rule-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+### III &nbsp;·&nbsp; Competitive Programming Telemetry
 
 <div align="center">
 
-<!-- Live Quant-Style CP Time Series (Auto-updated daily via GitHub Actions) -->
+<!-- Plate III: Live Quant-Style CP Time Series (Auto-updated daily via GitHub Actions) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/cp-telemetry-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/cp-telemetry-light.svg" />
   <img alt="Codeforces and AtCoder Quantitative Rating Telemetry" src="./assets/cp-telemetry-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- Plate IV: Lorenz Attractor & Golden Phyllotaxis Colophon -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/attractor-colophon-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/attractor-colophon-light.svg" />
+  <img alt="Lorenz Strange Attractor and Golden-Angle Phyllotaxis Spiral" src="./assets/attractor-colophon-dark.svg" width="100%" />
 </picture>
 
 </div>
